@@ -1,2 +1,2 @@
 # miraimolester
-Finds and attempts to break into mirai botnets!
+Detects and attempts to break into mirai botnets!
