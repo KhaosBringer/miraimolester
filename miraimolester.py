@@ -8,7 +8,7 @@ import socket
 os.system("clear")
 print(Fore.YELLOW + "WE HATE BOTNETS!!!!!!!" + "\n" + "KILL ALL MIRAIS!!!!")
 print(Fore.RED + "Mirai Molester v1 for LINUX ONLY!")
-print(Fore.RED + "Made by qolhf!")
+print(Fore.RED + "Made by cypress!")
 print()
 ip = input(Fore.GREEN + "Enter MIRAI Botnet IP: ")
 if ip == "":
